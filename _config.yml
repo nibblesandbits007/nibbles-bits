@@ -4,3 +4,6 @@ minima:
 author:
   name: Nibbles
   email: "medium@nibbles-bits.com"
+
+include:
+  - _posts
