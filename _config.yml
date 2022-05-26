@@ -25,11 +25,14 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
-#theme: minima
-minima:
-     skin: dark
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
+
+# Theme Settings
+minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "default", "dirt", "neon", "mint", "plum", "sunrise"
+
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
